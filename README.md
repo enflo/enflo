@@ -9,6 +9,7 @@
 <h4 align='center'> 🔭   I’m currently working with ...</h4>
 <p align='center'>
   <img src="https://img.shields.io/badge/-nginx-brightgreen" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
 </p>
 <hr>
 
