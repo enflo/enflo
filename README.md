@@ -1,8 +1,17 @@
-### Hi there 👋
+<h2 align='center'> Hi there, I'm Toni 👋 🧑🏻‍💻 </h2>
 
-<!--
-**enflo/enflo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  <a href="https://medium.com/@toniflorithomar"><img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/antoni-florit-homar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:toniflorithomar@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
+<p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=enflo.enflo"></a>
+</p>
+
+
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
