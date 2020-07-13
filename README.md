@@ -7,8 +7,6 @@
 </p>
 
 <h4 align='center'> 🔭   I’m currently working with ...</h4>
-
-<h5 align='center'> Frontend and Others</h5>
 <p align='center'>
   <img src="https://img.shields.io/badge/-nginx-brightgreen" />&nbsp;&nbsp;
 </p>
