@@ -6,7 +6,7 @@
   <a href="mailto:toniflorithomar@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h4 align='center'> 🔭   I’m currently working with ...</h4>
+<!--<h4 align='center'> 🔭   I’m currently working with ...</h4>
 <p align='center'>
   <img src="https://img.shields.io/badge/-nginx-brightgreen" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -15,7 +15,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=enflo.enflo"></a>
-</p>
+</p>-->
 
 
 <!--
